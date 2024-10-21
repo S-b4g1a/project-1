@@ -15,10 +15,15 @@
     margin-bottom: 20px;
     background-color: #2ec4b6;
     align-items: center;
+
 }
 
 .text-center h2 {
     margin-bottom: 20px;
+}
+
+.card-title {
+    align-items: center;
 }
 
 
