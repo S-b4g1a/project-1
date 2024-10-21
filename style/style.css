@@ -1,21 +1,24 @@
 /*card element*/
 
-.card {
-    background-color: #2ec4b6;
-    align-items: center;
+.jumbotron {
+    background-color: #BA7BA1; 
+    background-image: url('../images/mental-health.jpg'); /* Simple background image */
+    background-size: cover;
+    color: #AB3428; 
 }
 
-.jumbotron {
-    background-color: #e0f7fa; /* Calming light blue color */
-    background-image: url('your-background-image.jpg'); /* Simple background image */
-    background-size: cover;
-    color: #00796b; /* Calming dark teal color */
+.lead {
+    color: #006494;
 }
 
 .card {
     margin-bottom: 20px;
+    background-color: #2ec4b6;
+    align-items: center;
 }
 
 .text-center h2 {
     margin-bottom: 20px;
 }
+
+
