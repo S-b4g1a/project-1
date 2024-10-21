@@ -1,0 +1,21 @@
+/*card element*/
+
+.card {
+    background-color: #2ec4b6;
+    align-items: center;
+}
+
+.jumbotron {
+    background-color: #e0f7fa; /* Calming light blue color */
+    background-image: url('your-background-image.jpg'); /* Simple background image */
+    background-size: cover;
+    color: #00796b; /* Calming dark teal color */
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.text-center h2 {
+    margin-bottom: 20px;
+}
