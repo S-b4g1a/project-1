@@ -1,4 +1,4 @@
-### Mental Health Matters
+# Mental Health Matters
 
 -Mental Health Matters is a mental health page dedicated to educate in simpler terms the impact of menatl health. Mental Health page created by someone who has had past battles with mental health. The page is designed to help and inform in the easiest way possible. the website is purposly designed to inform thus the lack of navigation bar at the top of the page. The website goes into detail about other mental health issues as well, such as, anxiety, stress, and depression.
 
